@@ -1,0 +1,8 @@
+vendor/bundle
+node_modules
+slides/*.pdf
+.vagrant
+.bundle
+references/*.pdf
+build/*.pdf
+tmp*
