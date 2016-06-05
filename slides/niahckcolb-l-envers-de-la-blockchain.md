@@ -5,9 +5,7 @@ SNIAHC KCOLB
 
 <br/>
 
-2016-05
-
-<br/>
+2016-05 <br/>
 
 **[glenux.net](http://www.glenux.net) / [@glenux](http://twitter.com/netcat)**
 
