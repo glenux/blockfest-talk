@@ -15,18 +15,19 @@
 
 
 // Include theme-specific fonts
+@import url(https://fonts.googleapis.com/css?family=News+Cycle:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic);
 
 
 // Override theme settings (see ../template/settings.scss)
 $mainFont: 'Open Sans', sans-serif;
-$mainColor: #000;
+$mainColor: #fff;
 $headingFont: 'Arial', 'Helvetica', Impact, sans-serif;
-$headingColor: #673A8C; // #000
+$headingColor: #fff; // #673A8C; // #000
 $headingTextShadow: none;
 $headingTextTransform: none;
-$backgroundColor: #fff;
-$linkColor: #673A8C; //#00008B;
+$backgroundColor: #662d91; // fff;
+$linkColor: #fff ; // #673A8C; //#00008B;
 $linkColorHover: lighten( $linkColor, 20% );
 $selectionBackgroundColor: rgba(0, 0, 0, 0.99);
 
@@ -42,15 +43,6 @@ body > a {
 
 // overwrite 
 .reveal .slides {
-	text-align: left;
-}
-
-.reveal pre {
-	width: 100%;
-	margin: 20px 0;
-}
-
-.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
-	line-height: 1;
+	//text-align: left;
 }
 
